@@ -1,0 +1,144 @@
+[{
+    "id": 1,
+    "titulo": "Workshop",
+    "mensagem":
+      "Atenção, comunidade acadêmica! O Centro de Empreendedorismo da faculdade está organizando um workshop gratuito sobre desenvolvimento de habilidades empreendedoras. Nesse evento, renomados empreendedores compartilharão suas experiências, oferecerão orientações práticas e inspirarão os participantes a transformar ideias em negócios de sucesso. O workshop acontecerá no próximo sábado, dia 26 de junho, das 9h às 12h. Inscrevam-se agora mesmo e aproveitem essa chance de impulsionar seu espírito empreendedor!",
+    "tipo": "PUSH",
+    "leads": "860",
+    "dataCriacao": "20/06/2023",
+    "dataEnvio": "21/06/2023",
+    "usuario": "Diogo Lima",
+    "status": "Rascunho"
+  },
+  {
+    "id": 2,
+    "titulo": "Prazo de entrega prorrogado",
+    "mensagem":
+      "Atenção! O prazo para entrega do trabalho de História foi prorrogado para amanhã às 18h.",
+    "tipo": "PUSH",
+    "leads": "350",
+    "dataCriacao": "20/06/2023",
+    "dataEnvio": "20/06/2023",
+    "usuario": "Diogo Lima",
+    "status": "Concluído"
+  },
+  {
+    "id": 3,
+    "titulo": "Material publicado no classroom",
+    "mensagem":
+      "Aviso: O professor de Física publicou material complementar para a próxima aula. Confira agora mesmo.",
+    "tipo": "PUSH",
+    "leads": "500",
+    "dataCriacao": "19/06/2023",
+    "dataEnvio": "19/06/2023",
+    "usuario": "Diogo Lima",
+    "status": "Rascunho"
+  },
+  {
+    "id": 4,
+    "titulo": "Comunicado de Feriado",
+    "mensagem":
+      "Atualização de calendário: Feriado acadêmico na próxima segunda-feira. Não haverá aulas.",
+    "tipo": "PUSH",
+    "leads": "2300",
+    "dataCriacao": "18/06/2023",
+    "dataEnvio": "18/06/2023",
+    "usuario": "Diogo Lima",
+    "status": "Concluído"
+  },
+  {
+    "id": 5,
+    "titulo": "Evento imperdível",
+    "mensagem":
+      "Evento imperdível! Palestra sobre Empreendedorismo hoje às 19h no auditório principal. Participe!",
+    "tipo": "PUSH",
+    "leads": "645",
+    "dataCriacao": "17/06/2023",
+    "dataEnvio": "18/06/2023",
+    "usuario": "Diogo Lima",
+    "status": "Concluído"
+  },
+  {
+    "id": 6,
+    "titulo": "Notícia urgente",
+    "mensagem":
+      "O sistema de inscrição para disciplinas do próximo semestre está aberto. Matricule-se agora!",
+    "tipo": "PUSH",
+    "leads": "546",
+    "dataCriacao": "16/06/2023",
+    "dataEnvio": "16/06/2023",
+    "usuario": "Diogo Lima",
+    "status": "Concluído"
+  },
+  {
+    "id": 7,
+    "titulo": "Aviso urgente",
+    "mensagem":
+      "Problemas técnicos no servidor. A plataforma de estudos estará temporariamente indisponível.",
+    "tipo": "PUSH",
+    "leads": "6788",
+    "dataCriacao": "11/06/2023",
+    "dataEnvio": "15/06/2023",
+    "usuario": "Diogo Lima",
+    "status": "Concluído"
+  },
+  {
+    "id": 8,
+    "titulo": "Atualização de notas",
+    "mensagem":
+      "As avaliações de Química já estão disponíveis. Verifique sua pontuação.",
+    "tipo": "PUSH",
+    "leads": "7898",
+    "dataCriacao": "13/06/2023",
+    "dataEnvio": "13/06/2023",
+    "usuario": "Diogo Lima",
+    "status": "Concluído"
+  },
+  {
+    "id": 9,
+    "titulo": "Palestra amanhã, não perca!",
+    "mensagem":
+      "Atenção, estudantes de Engenharia de Software! Haverá uma palestra sobre desenvolvimento de aplicativos móveis na próxima sexta-feira, às 15h, no auditório principal. Não perca essa oportunidade de ampliar seus conhecimentos!",
+    "tipo": "PUSH",
+    "leads": "500",
+    "dataCriacao": "04/04/2023",
+    "dataEnvio": "04/04/2023",
+    "usuario": "Pedro Henrique",
+    "status": "Concluído"
+  },
+  {
+    "id": 10,
+    "titulo": "Reunião de orientação",
+    "mensagem":
+      "Importante: A reunião de orientação para os estudantes de Pós-Graduação em Direito será realizada na próxima quarta-feira, às 18h. Compareça à sala 401 para receber informações essenciais sobre seu curso.",
+    "tipo": "PUSH",
+    "leads": "5687",
+    "dataCriacao": "23/05/2023",
+    "dataEnvio": "23/05/2023",
+    "usuario": "Pedro Henrique",
+    "status": "Concluído"
+  },
+  {
+    "id": 11,
+    "titulo": "Atenção",
+    "mensagem":
+      "Prezados alunos, a secretaria acadêmica informa que as carteirinhas estudantis para o próximo semestre já estão disponíveis. Retire a sua na recepção do prédio principal. Não se esqueça de renovar o benefício!",
+    "tipo": "PUSH",
+    "leads": "8767",
+    "dataCriacao": "14/05/2023",
+    "dataEnvio": "14/05/2023",
+    "usuario": "Pedro Henrique",
+    "status": "Concluído"
+  },
+  {
+    "id": 12,
+    "titulo": "Palestra amanhã, não perca!",
+    "mensagem":
+      "Atenção, estudantes de Engenharia de Software! Haverá uma palestra sobre desenvolvimento de aplicativos móveis na próxima sexta-feira, às 15h, no auditório principal. Não perca essa oportunidade de ampliar seus conhecimentos!",
+    "tipo": "PUSH",
+    "leads": "500",
+    "dataCriacao": "14/05/2023",
+    "dataEnvio": "14/05/2023",
+    "usuario": "Pedro Henrique",
+    "status": "Rascunho"
+  }]
